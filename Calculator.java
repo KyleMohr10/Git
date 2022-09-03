@@ -35,3 +35,4 @@ public abstract class Calculator {
 		return width * length;
 	}
 }
+//added to Git by Kyle Mohr
